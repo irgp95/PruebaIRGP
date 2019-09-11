@@ -11,7 +11,7 @@ namespace PruebaCommits
         static void Main(string[] args)
         {
 
-            Console.Write("HOLA MUNDO");
+            Console.WriteLine("Fin del Programa, Presione una tecla para continuar...");
             Console.ReadKey();
         }
     }
